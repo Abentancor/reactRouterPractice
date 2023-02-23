@@ -40,7 +40,7 @@ const Blog = () => {
 
   return (
     <>
-      <div className="text-white text-lg flex flex-col font-semibold h-screen">
+      <div className="text-white text-lg flex flex-col font-semibold ">
         <h2 className="text-4xl font-bold text-center border-2 h-16 p-2">Blogs</h2>
         <input 
             onChange={handleChange} 
